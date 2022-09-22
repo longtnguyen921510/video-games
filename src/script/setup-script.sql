@@ -16,6 +16,57 @@ INSERT INTO `videogames`.`games`
  `likes`)
  VALUES
  (
+  1,
+  "SONIC FRONTIERS",
+  "Race across 5 massive overworld islands, each with their own unique action-platforming challenges and hidden secrets to uncover.",
+  "https://media.gamestop.com/i/gamestop/20000861-680826cd?fmt=auto",
+  60,
+  100
+)
+
+INSERT INTO `videogames`.`games`
+ (`id`,
+ `title`,
+ `description`,
+ `image`,
+ `price`,
+ `likes`)
+ VALUES
+ (
+  2,
+  "CATS",
+  "Along the way, the cat befriends a small flying drone, known only as B12. With the help of this newfound companion, the duo must find a way out.",
+  "https://media.gamestop.com/i/gamestop/11207207/Stray?fmt=auto",
+  40,
+  150
+)
+
+INSERT INTO `videogames`.`games`
+ (`id`,
+ `title`,
+ `description`,
+ `image`,
+ `price`,
+ `likes`)
+ VALUES
+ (
+  3,
+  "SUPER MARIO PARTY",
+  "Outwit friends and family as you race across the board; whoever gets the most stars wins!",
+  "https://media.gamestop.com/i/gamestop/10162374/Super-Mario-Party?fmt=auto",
+  48,
+  150
+)
+
+INSERT INTO `videogames`.`games`
+ (`id`,
+ `title`,
+ `description`,
+ `image`,
+ `price`,
+ `likes`)
+ VALUES
+ (
   4,
   "KIRBY",
   "Expand Waddle Dee Town by rescuing more Waddle Dees to unlock more surprises - like some of the townsfolk's favorite games, shops, and even leaderboards.",
